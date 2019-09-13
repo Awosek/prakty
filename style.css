@@ -10,7 +10,7 @@ body
 
 .cover
 {
-    background: url('Gallery/cover4.jpg') no-repeat center center fixed;
+    background: url('cover4.jpg') no-repeat center center fixed;
     color: rgb(255, 255, 255);
     height: 100vh;
     position: relative;
